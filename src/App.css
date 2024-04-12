@@ -1,0 +1,53 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+h1{
+  padding: 1%;
+  background: #000;
+  color: chartreuse;
+  font-size: xx-large;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+}
+
+.maindiv{
+  width: 50vw;
+  height: 50vh;
+  display: inline-block;
+  margin-top: 10%;
+  background: #b6b5b5;
+  margin-left: 25vw;
+  margin-right: 25vw;
+}
+
+span{
+  font-size: 50px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+button{
+  padding: 1%;
+  border-radius: 50px;
+  font-size: larger;
+  font-weight: 500;
+  background-color: #000;
+  color: chartreuse;
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+  margin-top: 5%;
+  margin-left: 21vw;
+  margin-right: 21vw;
+}
