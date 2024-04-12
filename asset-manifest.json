@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Max-Count-Game-Using-React/static/css/main.7ae4fe69.css",
+    "main.js": "/Max-Count-Game-Using-React/static/js/main.72b15b68.js",
+    "index.html": "/Max-Count-Game-Using-React/index.html",
+    "main.7ae4fe69.css.map": "/Max-Count-Game-Using-React/static/css/main.7ae4fe69.css.map",
+    "main.72b15b68.js.map": "/Max-Count-Game-Using-React/static/js/main.72b15b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae4fe69.css",
+    "static/js/main.72b15b68.js"
+  ]
+}
